@@ -7,7 +7,6 @@ public class Metodos {
 	WebDriver driver;
 
 	public void navegador(String url, String navegador) {
-		blablabla
 		
 	}
 
