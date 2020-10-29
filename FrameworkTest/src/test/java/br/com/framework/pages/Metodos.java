@@ -6,7 +6,7 @@ public class Metodos {
 
 	WebDriver driver;
 
-	public void navegador(String url, String navegador) {
+	public void navegador(String url, String navegador
 		
 	}
 
